@@ -1,2 +1,2 @@
-# math
-Scripts that preform complex mathematical calculations
+# Matrix Arithmatic
+Scripts that provide arithmatical computations of matrices.
